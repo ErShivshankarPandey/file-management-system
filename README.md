@@ -1,5 +1,3 @@
-# file-management-system
-
 ## 📁 File Management System
 
 ### 🛠 Description
